@@ -1,2 +1,2 @@
 # hacktoberfest2021
-This is for people participating in the fest.
+This is for people participating in the hacktoberfest.
